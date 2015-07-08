@@ -237,7 +237,8 @@
     
     
     <!-- Performance profiles -->
-    
+    <string name="config_perf_profile_prop">powerhal</string>
+    <string name="config_perf_profile_default_entry">1</string>
     
     <!-- Package name providing network location support. Used only when
          config_enableNetworkLocationOverlay is false. -->
